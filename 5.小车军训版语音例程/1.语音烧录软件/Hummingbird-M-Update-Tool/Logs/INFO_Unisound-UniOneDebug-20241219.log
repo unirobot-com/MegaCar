@@ -1,0 +1,5 @@
+Log file created at: 2024/12/19 16:09:21  PID: 4512
+Running on machine: UNIBORIS
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1219 16:09:21.650606 19900 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 

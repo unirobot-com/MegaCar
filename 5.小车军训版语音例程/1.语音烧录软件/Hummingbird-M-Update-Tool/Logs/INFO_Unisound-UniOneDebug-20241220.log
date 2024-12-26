@@ -1,0 +1,19 @@
+Log file created at: 2024/12/20 09:14:57  PID: 11988
+Running on machine: UNIBORIS
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1220 09:14:57.476130 13932 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I1220 09:15:29.974857 13932 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 29 
+I1220 09:15:29.977511 13932 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:29 
+ 
+I1220 09:15:37.187716 19088 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM29 XmodermSendFile detected CCC, start send file 
+ 
+I1220 09:15:37.187716 19088 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM29 ReadSendFile F:\Workspace\2.Robot_MWR48_Mega\GX-MAT-09教程u盘资料\2.实验项目\实验6-语音控制机器人实验\语音包\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes file not exist 0 
+ 
+I1220 09:16:50.558120 13932 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 29 
+I1220 09:16:50.560103 13932 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:29 
+ 
+I1220 09:16:54.590065 19088 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM29 XmodermSendFile detected CCC, start send file 
+ 
+I1220 09:16:54.590065 19088 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM29 ReadSendFile F:\uniyuyin\jx_firm\jx_su_03t_release_update.bin m_iTransferTimes finished 1262 
+ 
